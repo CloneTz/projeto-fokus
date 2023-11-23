@@ -60,7 +60,7 @@ function alterarContexto(contexto) {
 }
 
 const contagemRegressiva = () => {
-  //iniciar();
+  //  iniciar();
   tempoDecorridoEmSegundos -= 1;
   console.log("Temporizador" + tempoDecorridoEmSegundos);
 };
